@@ -1,4 +1,4 @@
-# Projeto de CRUD
+# Projeto de Gerador de Senhas
 <h3>Este é um projeto que gera senhas extremamente seguras para os usuarios</h3>
 
 <p>Neste projeto tentei trabalhar mais a parte "visual" usando CSS3 Avançado e com ajuda do JavaScript fazendo uma DarkMode e um LightMode.</p>
