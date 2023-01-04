@@ -1,13 +1,20 @@
-# Projeto de Gerador de Senhas
-<h3>Este é um projeto que gera senhas extremamente seguras para os usuarios</h3>
+<h2 align="center">
+  PasswordKey
+</h2>
+<p align="center">
+  Projeto: Gerador de Senhas </p>
+  
+![img](https://user-images.githubusercontent.com/116293621/210639506-f5da8521-8fe7-4a37-9bfb-6f0e948c5586.jpg)
+<p align="center">
+  Link do projeto: https://gxbrielleno.github.io/gerador-de-senhas/</p>
 
-<p>Neste projeto tentei trabalhar mais a parte "visual" usando CSS3 Avançado e com ajuda do JavaScript fazendo uma DarkMode e um LightMode.</p>
+## Sobre o projeto
+Projeto feito com HTML,CSS e JavaScript, projeto foi feito utilizando ECMAScript7 
+Fale sobre o projeto.
 
-<h3>Link para ver o projeto no ar!</h3>
-<p>https://gxbrielleno.github.io/gerador-de-senhas/</p>
+## 🚀 Como executar
 
-<h1>Linguagens Utilizadas.</h1>
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- Clone o repositório
+- Instale as dependências com yarn
+- Inicie o servidor com yarn start
+- Agora você pode acessar localhost:3000 do seu navegador.
